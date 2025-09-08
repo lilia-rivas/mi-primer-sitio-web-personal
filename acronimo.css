@@ -1,0 +1,100 @@
+/* Resetear estilos */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* Declaramos variables personalizadas para nuestra paleta de colores */
+:root {
+    /*Paleta de colores */
+    --color-principal-fondo: #ccd5ae;
+    --color-titulos: #8a9174;
+    --color-subtitulos: #d9b08c;
+    --color-texto: #85684b;
+    --color-botones: #cdb1ee;
+    --fuente principal: "Arial", serif;
+}
+
+body {
+    font-family: "Delius", cursive;
+    background-color: var(--color-principal-fondo);
+    color: var(--color-texto);
+    /* Alineación de elementos */
+    /* text-align: center; */
+    display: flex;
+    justify-content: center;
+
+}
+
+.container {
+    max-width: 800px; /* Este es el ancho máximo en pantallas grandes */
+    width: 100%; /* Ocupar todo el ancho disponible */
+   /* border: 10px solid rgb(147, 101, 160); Contenedor de elementos de mi página */
+
+}
+
+.page-header {
+    text-align: center;
+    margin-bottom: 40px;
+}
+/*
+#title {
+    color:aqua
+}
+
+h1#title { 
+    color: rgb(149, 97, 149);
+}
+*/
+
+/*Important debe usarse con moderación, evitar su uso lo más posible */
+
+h1 {
+    font-size: 35px; /*Tamaño de fuente para el título principal */
+    /*margin-bottom: 20px;  Espaciado de 20 px hacía abajo para separarse de p  */
+    color: purple;
+}
+
+/* Seleccionamos el párrafo que está dentro de page-header */
+.page-header p{
+    margin-top: 30px;
+}
+
+#subtitle{
+    font-family: var(--fuente-subtitulos);
+    color: var(--color-texto);
+}
+/*Tarjeta */
+.card{ 
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 8px; /* Bordes redondeados */
+    padding: 20px; /* Espaciado interno de la tarjeta*/
+    margin: 25px; /* Espaciado externo de la tarjeta */
+    /*Flexbox */
+    display: flex; /* Convierte nuestro contenedor en un contenedor flexible */
+    align-items: center; /* Alineamos verticalmente los elementos dentro de la tarjeta */
+    gap:100px; /* Espacio entre cada elemento */
+
+}
+
+/*Selector de pseudoclase */
+.card:hover{
+    transform: translateY(-5px); /* Mueve la tarjeta 5px hacia abajo */
+    box-shadow: 10px 5px 5px var(--color-botones);
+}
+
+h2 {
+    font-size: 4em; /* Tamaño de fuente para los subtítulos, unidad de medida relativa */
+}
+
+img {
+    max-width: 100%;
+    height: auto; /* Mantener la proporción de la imagen al cambiar el ancho*/
+}
+
+button{
+    background-color: var(--color-botones);
+    border: 1px solid black;
+    padding:12px;
+}

@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+
+/* Variables para la paleta de colores */
+:root {
+  --color-principal: #7f35ae; 
+  --color-secundario: #42a5f5; 
+  --color-claro: #dcd5de; 
+  --color-oscuro: #212121; 
+  --fuente-principal: 'Poppins', sans-serif;
+}
+
+body {
+  font-family: var(--fuente-principal);
+  background-color: var(--color-claro);
+}
+
+.navbar-brand {
+  color: var(--color-principal) !important;
+  font-weight: bold;
+}
+
+.text-primary {
+  color: var(--color-principal) !important;
+}
+
+.btn-primary {
+  background-color: var(--color-principal);
+  border-color: var(--color-principal);
+}
+
+/* Pseudoclase para un cambio de color al pasar el mouse */
+.btn-primary:hover {
+  background-color: var(--color-secundario);
+  border-color: var(--color-secundario);
+}
+
+.card {
+  border-color: var(--color-secundario);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.list-group-item:hover {
+  background-color: var(--color-secundario);
+  color: #fff;
+}
+
+body {
+    font-family: 'Delius', cursive;
+}
+h1 {
+    font-family: 'Delius', cursive;
+}
+button:hover {
+    background-color: var(--color-principal-fondo);
+    cursor: pointer;
+}
+
+.flor-icono {
+  color: #c290df; 
+  margin-right: 5px;
+}
