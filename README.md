@@ -1,35 +1,41 @@
-Portafolio Web Personal: Un Proyecto con HTML y Bootstrap
-Este repositorio contiene mi sitio web personal, un proyecto creado para demostrar mis habilidades en desarrollo web y mi proceso de aprendizaje. El proyecto final está construido con HTML, CSS, y utiliza Bootstrap para un diseño moderno y responsivo.
+¡Bienvenido a mi Sitio Web Personal! ✨
 
-📂 Estructura del Repositorio
-El proyecto está organizado de la siguiente manera:
 
-componentes.html: Es la página principal de mi portafolio, que utiliza componentes de Bootstrap para su diseño.
 
-componentes.css: La hoja de estilos que acompaña a la página principal.
+Este repositorio contiene el código de mi portafolio personal, desarrollado como parte de un proyecto educativo. El sitio está construido con HTML, CSS y Bootstrap, y muestra mis habilidades, experiencia y proyectos.
 
-bootstrap/: Una carpeta que contiene los archivos de un ejercicio inicial con componentes de Bootstrap.
+Contenido del Repositorio
 
-Ejercicios/: Una carpeta que guarda mis ejercicios complementarios, como el acrónimo, donde experimenté con HTML y CSS de forma independiente.
 
-acronimo.html y acronimo.css: El proyecto del acrónimo, que utiliza la fuente "Delius" y variables de CSS para un estilo único.
 
-img/: La carpeta donde se encuentran todas las imágenes utilizadas en el proyecto.
+bootstrap/: Carpeta principal donde se encuentra el proyecto final.componentes.html: La estructura principal del sitio web, que utiliza componentes de Bootstrap.
 
-index.html y style.css: Estos archivos de práctica inicial ya no están en el repositorio principal, pero sirvieron como base para el proyecto final.
+componentes.css: La hoja de estilos personalizada para el diseño.
 
-🌟 Características Clave
-Diseño Responsivo: El diseño se adapta a pantallas de diferentes tamaños, desde computadoras de escritorio hasta dispositivos móviles.
+img/: Carpeta que contiene las imágenes utilizadas en ambos proyectos.
 
-Estilo Personalizado: Se usaron variables de CSS para una paleta de colores y tipografía que reflejan un estilo único.
+acronimo.html, acronimo.css, style.css y index.html: Un ejercicio complementario para practicar HTML y CSS.
 
-Componentes Bootstrap: El sitio utiliza la barra de navegación, el carrusel y las tarjetas para una mejor experiencia de usuario.
+README.md: El archivo que estás leyendo, con información sobre el proyecto.
 
-🤝 Contacto
-Si quieres saber más sobre mi trabajo o colaborar, no dudes en contactarme:
+Características Principales
 
-Correo Electrónico: liliacolors825@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/lilia-rivas/
 
-GitHub: https://github.com/lilia-rivas/
+Diseño Responsivo: Se adapta a diferentes dispositivos, desde computadoras de escritorio hasta móviles.
+
+Componentes de Bootstrap: Utiliza la barra de navegación, carrusel y modales para una mejor experiencia de usuario.
+
+Diseño Personalizado: La paleta de colores y la tipografía reflejan una identidad visual única.
+
+Contacto
+
+
+
+Si tienes alguna pregunta o quieres colaborar, no dudes en contactarme:
+
+Correo Electrónico: liliacolors825@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/lilia-rivas/
+
+GitHub: https://github.com/lilia-rivas/
