@@ -4,7 +4,7 @@ Este repositorio contiene el código de mi portafolio personal, desarrollado com
 
 ## Contenido del Repositorio
 
-componentes.html & componentes.css: Estos archivos son la base de mi portafolio. componentes.html es mi página principal, que utiliza componentes de Bootstrap para su estructura, mientras que componentes.css contiene los estilos personalizados.
+index.html & componentes.css: Estos archivos son la base de mi portafolio. index.html es mi página principal, que utiliza componentes de Bootstrap para su estructura, mientras que componentes.css contiene los estilos personalizados.
 
 bootstrap/: Esta carpeta contiene un proyecto anterior que sirvió como punto de partida para mi portafolio principal.
 
