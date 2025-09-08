@@ -4,12 +4,17 @@ Este repositorio contiene el código de mi portafolio personal, desarrollado com
 
 ## Contenido del Repositorio
 
-* **`bootstrap/`**: Carpeta principal donde se encuentra el proyecto final.
-    * `componentes.html`: La estructura principal del sitio web, que utiliza componentes de Bootstrap.
-    * `componentes.css`: La hoja de estilos personalizada para el diseño.
-* **`img/`**: Carpeta que contiene las imágenes utilizadas en ambos proyectos.
-* **`acronimo.html` y `acronimo.css`**: Un ejercicio complementario para practicar HTML y CSS.
-* **`README.md`**: El archivo que estás leyendo, con información sobre el proyecto.
+componentes.html & componentes.css: Estos archivos son la base de mi portafolio. componentes.html es mi página principal, que utiliza componentes de Bootstrap para su estructura, mientras que componentes.css contiene los estilos personalizados.
+
+bootstrap/: Esta carpeta contiene un proyecto anterior que sirvió como punto de partida para mi portafolio principal.
+
+Ejercicios/: Aquí guardo ejercicios complementarios, como el proyecto de acrónimo.
+
+acronimo.html & acronimo.css: Un proyecto de práctica en el que experimenté con estilos CSS personalizados y un poco de JavaScript.
+
+img/: Contiene todas las imágenes utilizadas a lo largo de los proyectos.
+
+README.md: El archivo que describe este repositorio.
 
 ## Características Principales
 
